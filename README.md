@@ -1,14 +1,23 @@
 ﻿<h1 align="center">
 <br>
-  <a href="https://github.com/AndrewSavetchuk/33-js-concepts-ukrainian-translation"><img src="https://i.imgur.com/dsHmk6H.jpg" alt="33 Concepts Every JS Developer Should Know" width=200"></a>
+  <a href="https://github.com/AndrewSavetchuk/33-js-concepts-ukrainian-translation">
+    <img src="https://i.imgur.com/dsHmk6H.jpg" alt="33 Концепції, які повинен знати кожен JavaScript розробник" width=200">
+  </a>
   <br>
     <br>
     33 Концепції, які повинен знати кожен JavaScript розробник
-  <br><br>
+    <br>
+    <br>
 </h1>
 
-[![Follow me](https://img.shields.io/twitter/follow/leonardomso.svg?style=for-the-badge)](https://twitter.com/leonardomso)
-[![Follow me](https://img.shields.io/twitter/follow/AndrewSavetchuk.svg?style=for-the-badge)](https://twitter.com/AndrewSavetchuk)
+<p align="center">
+  <a href="https://twitter.com/AndrewSavetchuk" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/AndrewSavetchuk.svg?style=for-the-badge" alt="Підпишіться на автора \"AndrewSavetchuk\" в мережі X">
+  </a>
+  <a href="https://twitter.com/leonardomso">
+    <img src="https://img.shields.io/twitter/follow/leonardomso.svg?style=for-the-badge" alt="Підпишіться на автора \"leonardomso.svg\" в мережі X">
+  </a>
+</p>
 
 ## Вступ
 
