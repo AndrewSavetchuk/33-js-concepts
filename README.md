@@ -1,9 +1,9 @@
 ﻿<h1 align="center">
 <br>
-  <a href="https://github.com/leonardomso/33"><img src="https://i.imgur.com/dsHmk6H.jpg" alt="33 Concepts Every JS Developer Should Know" width=200"></a>
+  <a href="https://github.com/AndrewSavetchuk/33-js-concepts-ukrainian-translation"><img src="https://i.imgur.com/dsHmk6H.jpg" alt="33 Concepts Every JS Developer Should Know" width=200"></a>
   <br>
     <br>
-  33 концепції, які повинен знати кожен JavaScript розробник
+    33 Концепції, які повинен знати кожен JavaScript розробник
   <br><br>
 </h1>
 
