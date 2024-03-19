@@ -8,8 +8,8 @@
 </h1>
 
 <p align="center">
-  <a href="https://twitter.com/AndrewSavetchuk"><img src="https://img.shields.io/twitter/follow/AndrewSavetchuk.svg?style=for-the-badge" alt="Підпишіться на автора \"AndrewSavetchuk\" в мережі X"></a>
-  <a href="https://twitter.com/leonardomso"><img src="https://img.shields.io/twitter/follow/leonardomso.svg?style=for-the-badge" alt="Підпишіться на автора \"leonardomso.svg\" в мережі X"></a>
+  <a href="https://twitter.com/AndrewSavetchuk"><img src="https://img.shields.io/twitter/follow/AndrewSavetchuk?style=for-the-badge&logo=x&label=%D0%9F%D1%96%D0%B4%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B8%D1%81%D1%8F%20%D0%BD%D0%B0%20%40AndrewSavetchuk&labelColor=%23555555&color=%23FFFFFF" alt="Підписатися на автора \"AndrewSavetchuk\" в мережі X"></a>
+  <a href="https://twitter.com/leonardomso"><img src="https://img.shields.io/twitter/follow/leonardomso?style=for-the-badge&logo=x&label=%D0%9F%D1%96%D0%B4%D0%BF%D0%B8%D1%81%D0%B0%D1%82%D0%B8%D1%81%D1%8F%20%D0%BD%D0%B0%20%40leonardomso&labelColor=%23555555&color=%23FFFFFF" alt="Підпишіться на автора \"leonardomso.svg\" в мережі X"></a>
 </p>
 
 ## Вступ
