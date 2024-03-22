@@ -23,7 +23,10 @@
 Список доступних на даний момент перекладів цього репозиторію перераховано нижче:
 
 - [Англійська (English)](https://github.com/leonardomso/33-js-concepts) - Leonardo Maldonado
-- [Бразильська португальська (Portuguese-BR)](https://github.com/tiagoboeing/33-js-concepts) — Tiago Boeing
+- [Арабська (اَلْعَرَبِيَّةُ)](https://github.com/amrsekilly/33-js-concepts) - Amr Elsekilly
+- [Білоруська (Беларуская)](https://github.com/Yafimau/33-js-concepts) - Dzianis Yafimau
+- [Болгарська (Български)](https://github.com/thewebmasterp/33-js-concepts) - thewebmasterp
+- [Бразильська португальська (Português do Brasil)](https://github.com/tiagoboeing/33-js-concepts) — Tiago Boeing
 - [В'єтнамська (Tiếng Việt)](https://github.com/nguyentranchung/33-js-concepts) — Nguyễn Trần Chung
 - [Грецька (Greek)](https://github.com/DimitrisZx/33-js-concepts) — Dimitris Zarachanis
 - [Індонезійська (Indonesian)](https://github.com/rijdz/33-js-concepts) — Rijdzuan Sampoerna
